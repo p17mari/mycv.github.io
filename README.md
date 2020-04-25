@@ -3,7 +3,7 @@
 ### Εκπαίδευση
 
 - Απολυτηριο Λυκειου
-- Πτυχιο Αγγλικων Proficiency (_Cambridge_)
+- Πτυχιο Αγγλικων Proficiency [(_Cambridge_)](https://github.com/p17mari/mycv.github.io/commits/master/MARIOLI_ARGYRO_CPE.pdf)
 - [Φοιτητρια του Ιονιου Πανεπιστημιου στο Τμημα Επιστήμης της Πληροφορίας και Πληροφορικής 3ου Ετους](https://github.com/p17mari/mycv.github.io/commits/master/ΠΙΣΤΟΠΟΙΗΤΙΚΟΣΠΟΥΔΩΝΜΑΡΙΟΛΗΑΡΓΥΡΩ.PDF)
 
 ### Γνώσεις/Δεξιότητες
